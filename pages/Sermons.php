@@ -53,13 +53,7 @@
     </div>
       
   <div class="content-section"></div>
-    <footer>
-        <div class="container text-center">
-            <p>Copyright &copy;2017 Trinity Christian Church | All Rights Reserved.</p>
-            <p>Website: PremiereDesign.com</p>
-            
-        </div>
-  </footer>
+    <?php include("../inc/footer.php"); ?>
 </body>
   
   </script>

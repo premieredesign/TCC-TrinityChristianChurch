@@ -1,23 +1,23 @@
 
 $(document).ready(() => {
-
-
 	// jQuery to collapse the navbar on scroll
 	function collapseNavbar() {
 	    if ($(".navbar").offset().top > 50) {
 	        $(".navbar-fixed-top").addClass("top-nav-collapse");
 	        $(".welcome").find("h2").addClass("h2-change");
-	        //$(".navbar-custom").find("li > a").css({"color":"white"});
 	    } else {
 	        $(".navbar-fixed-top").removeClass("top-nav-collapse");
 	        $(".welcome").find("h2").removeClass("h2-change");
-	        //$(".navbar-custom").find("li > a").css({"color":"#350854"});
 	    }
 	}
 	$(window).scroll(collapseNavbar);
 	
 
+
+	//============================================
 	//index Page==================================
+	//============================================
+
 	$('.navbar-nav').hover(
 		function(){ $(this).addClass('hover-style')},
 		function(){ $(this).removeClass('hover-style')}
@@ -46,45 +46,75 @@ $(document).ready(() => {
 		$('.welcome h6').fadeIn(3000);
 	}, 25000);
 
-	/*$('.welcome h2').each(function(i) {
-		$(this).delay(i*1500).fadeIn(1000).fadeOut(1000);
-	});*/
-	
-	/*setTimeout(() => {
-		$('.welcome h2').hide();
-		$('.welcome h2').show();
-		//$('.welcome h2').removeClass();
-		//$('.welcome h2').css({'position': 'fixed'});
-	}, 8000);*/
-
 	$('h2:hover').css({'z-index': '8000px'});
 
 
 
-
-
-
+	//============================================
 	//About Page==================================
-	/*
-	$(".navbar-custom").find("li a").css("color", "black");
-	$(".navbar-custom").find("li a").hover(
-		function() {$(this).addClass(".navbar-color")},
-		function() {$(this).removeClass(".navbar-color")}
-	)
-	$(".jumbotron").addClass("jumbo-overlay");
-	*/
+	//============================================
+
+	$('.we').mouseenter(function() {
+		$('.photo-1').find('#faith').css('color','orange');
+		$('.photo-1').find('.orange-hover').css('color','orange');
+		$('.photo-1').find('#faith').css('font-size','50px');
+	});
+	$(".we").mouseleave(function(){
+       $('.photo-1').find('#faith').css('color','#12051a');
+       $('.photo-1').find('.orange-hover').css('color','#12051a');
+       $('.photo-1').find('#faith').css('font-size','36px');
+    });
 	
-	$('.photo-1').find('h1').addClass('hover-style');
+
+
+	$('.doc-p').mouseenter(function() {
+		$('.photo-1').find('#doc').css('color','orange');
+		$('.photo-1').find('#doc').css('font-size','50px');
+	});
+	$(".doc-p").mouseleave(function(){
+       $('.photo-1').find('#doc').css('color','#12051a');
+       $('.photo-1').find('#doc').css('font-size','36px');
+    });
 	
+
+	$('.god-tri-p').mouseenter(function() {
+		$('.photo-1').find('#god-tri').css('color','orange');
+		$('.photo-1').find('#god-tri').css('font-size','50px');
+	});
+	$(".god-tri-p").mouseleave(function(){
+       $('.photo-1').find('#god-tri').css('color','#12051a');
+       $('.photo-1').find('#god-tri').css('font-size','36px');
+    });
+	
+
+	$('.god-father-p').mouseenter(function() {
+		$('.photo-1').find('#god-father').css('color','orange');
+		$('.photo-1').find('#god-father').css('font-size','50px');
+	});
+	$(".god-father-p").mouseleave(function(){
+       $('.photo-1').find('#god-father').css('color','#12051a');
+       $('.photo-1').find('#god-father').css('font-size','36px');
+    });
+
+
+
+    $('.jesus-p').mouseenter(function() {
+		$('.photo-1').find('#jesus').css('color','orange');
+		$('.photo-1').find('#jesus').css('font-size','50px');
+	});
+	$(".jesus-p").mouseleave(function(){
+       $('.photo-1').find('#jesus').css('color','#12051a');
+       $('.photo-1').find('#jesus').css('font-size','36px');
+    });
 
 	$(".jumbo-overlay").hide();
 
 
 
-
-
-
+	//=========================================
 	//Pastor Page==============================
+	//=========================================
+
 		$('p').css({'font-smoothing': 'antialiased'});
 		$('p').hide();
 	setTimeout(() => {
@@ -96,9 +126,6 @@ $(document).ready(() => {
 		"background-color": "silver"
 	});
 	
-	
-	//$('.wade').hide();
-	//$('p').css('display', 'none');
 	$('.wade').css({'width': '50%'});
 	
 	$('.wade').animate({
@@ -106,22 +133,19 @@ $(document).ready(() => {
 		width: '40%'
 	}, 2000, () => {});
 	 
-	
+
+
+	//=========================================
+	//Sermons Page=============================
+	//=========================================
+
+	$('.frame').addClass('overlay');
 
 
 
-
-
-
-	
-
-
-
-	//Ministries Page=============================
-
-
-
+	//===========================================
 	//Events Page================================
+	//===========================================
 
 	$(".carousel").carousel({
         interval: 3000
