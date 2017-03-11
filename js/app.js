@@ -464,13 +464,14 @@ $(document).ready(() => {
 	
 	//$('.wade').hide();
 	//$('p').css('display', 'none');
-	//$('p').css({'width': '100%'});
+	$('.wade').css({'width': '50%'});
+	
 	$('.wade').animate({
 		bottom: '-=200px',
-		width: '49%'
+		width: '40%'
 	}, 2000, () => {});
-
-
+	 
+	
 
 
 

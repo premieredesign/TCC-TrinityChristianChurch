@@ -21,7 +21,7 @@
   
 <p align="justify" class="contain" id="pastor">He has worked with the police department, school districts, and city officials to make a difference in the lives of hurting people. More importantly, he has made it a point to preach the gospel to the poor as he brings the good news of Christ setting the captives free. Most recently, the lord has blessed his ministry with many signs & wonders. Numerous miracles and healing have taken place as the power of the Holy Spirit flows through and operates freely. Pastor Wade has been anointed to preach and teach to ALL nations; as he has ministered to thousands of souls regardless their race, creed or religious affiliation. This man of courage and believer of miracles is none other than... Pastor Rodney D. Wade.</p>
     
-   <p align="justify" class="contain" id="pastor"><i>Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold I have put my words in thy mouth. See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant. Jeremiah 1:9-10</i></p>
+   <p align="justify" class="contain" id="pastor"><i>"Then the LORD put forth his hand, and touched my mouth. And the LORD said unto me, Behold I have put my words in thy mouth. See, I have this day set thee over the nations and over the kingdoms, to root out, and to pull down, and to destroy, and to throw down, to build, and to plant. Jeremiah 1:9-10"</i></p>
    
    </div>
  </div>
