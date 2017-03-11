@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAQ,uBAAY;AACZ,0BAAe;AAEf,4BAAiB;AACjB,+BAAoB;AACpB,kCAAuB;AACvB,kCAAuB;AACvB,iCAAsB;AACtB,oCAAyB;AACzB,oCAAyB;AACzB,iCAAsB;AACtB,oCAAyB;AACzB,oCAAyB;AACzB,kCAAuB;AACvB,qCAA0B;AAC1B,qCAA0B;AAE1B,gCAAqB;AACrB,mCAAwB;AACxB,mCAAwB;AAExB,8BAAmB;AACnB,iCAAsB;AACtB,iCAAsB;AACtB,8BAAmB;AACnB,iCAAsB;AACtB,iCAAsB;AAEtB,4BAAiB;AACjB,+BAAoB;AACpB,+BAAoB;AAEpB,4CAAiC;AACjC,+CAAoC;AACpC,6CAAkC;AAClC,8CAAmC",
+"sources": ["../scss/animsition.scss"],
+"names": [],
+"file": "animsition.css"
+}
