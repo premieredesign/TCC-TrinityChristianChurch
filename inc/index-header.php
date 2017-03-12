@@ -61,7 +61,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll animsition-link" href="pages/About.php">About</a>
+                        <a class="page-scroll animsition-link" href="pages/About">About</a>
                     </li>
                     <li>
                         <a class="page-scroll animsition-link" href="pages/PastorWade.php">Pastor</a>
