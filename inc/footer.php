@@ -6,6 +6,7 @@
 		<br>
 		<h7><span class="orange">Service</span> <span class="tundora">times</span>: 10:00am & 2:30pm</h7>
 	</div>
+		<br>
         <div class="container text-center">
             <p>Copyright &copy; <?php echo date("Y"); ?> Trinity Christian Church | All Right Reserved.</p>
         </div>
