@@ -48,7 +48,7 @@
         <div class="container-2">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
-                    <img src="../img/menu-icon-3.png"><i class="fa fa-bars"></i>
+                    <img src="../img/menu-icon.png"><i class="fa fa-bars"></i>
                 </button>
                 <!--<a class="navbar-brand page-scroll" href="#page-top">
                     <i class="fa fa-play-circle"></i> <span class="light">Back To</span> Top

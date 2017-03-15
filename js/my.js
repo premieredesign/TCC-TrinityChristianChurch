@@ -1,23 +1,21 @@
 
 $(document).ready(() => {
 	// jQuery to collapse the navbar on scroll
+
 	function collapseNavbar() {
 	    if ($(".navbar").offset().top > 50) {
 	        $(".navbar-fixed-top").addClass("top-nav-collapse");
 	        $(".welcome").find("h2").addClass("h2-change");
+	        $('.welcome').find('h2').removeClass('ghost');
 	    } else {
 	        $(".navbar-fixed-top").removeClass("top-nav-collapse");
 	        $(".welcome").find("h2").removeClass("h2-change");
+	        $('.welcome').find('h2').addClass('ghost');
 	    }
 	}
 	$(window).scroll(collapseNavbar);
 	
 
-
-
-function myFunction(x) {
-    x.classList.toggle("change");
-}
 
 
 

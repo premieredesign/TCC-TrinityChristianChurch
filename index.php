@@ -1,18 +1,18 @@
  <?php include('./inc/index-header.php'); ?>
  <header>
-    <section class="masthead">
-      <video class="masthead-video" autoplay loop muted>
-        <source src="./assets/videos/faith" type="video/mp4">  
-      </video>
-      <div class="masthead-overlay">
+    <section class="cover">
+        <video class="cover-video" autoplay loop muted>
+          <source src="./assets/videos/faith" type="video/mp4">  
+        </video>
+      <div class="cover-overlay">
       
-    </div>
-    <div class="welcome">
-    <h1 id="welcome">Welcome</h1><h1 id="welcome">To</h1><h1 id="welcome">Trinity</h1><h1 id="welcom">Christian Church</h1></h1>
-    <h2 class='disappear'>"Helping people to become whole in Christ Body,Soul & Spirit"</h2>
-    <h6 class="show-time">Trintiy Christian Church</h6>
-  </div>
-   </section>
+      </div>
+        <div class="welcome">
+        <h1 id="welcome">Welcome</h1><h1 id="welcome">To</h1><h1 id="welcome">Trinity</h1><h1 id="welcom">Christian Church</h1></h1>
+        <h2 class="ghost">"Helping people to become whole in Christ Body,Soul & Spirit"</h2>
+        <h6 class="show-time">Trintiy Christian Church</h6>
+      </div>
+    </section>
  </header>
     <div id="begin" class="jumbotron-1 text-right">
       <div id="words">
