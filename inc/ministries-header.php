@@ -17,27 +17,14 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
 
     <!-- Theme CSS -->
-    <link href="../css/bootstrap.css" rel="stylesheet">
-    <link href="../css/grayscale.css" rel="stylesheet">
-    <link href="../css/2-simple.css" rel="stylesheet">
-    <link href="../css/animsition.css" rel="stylesheet">
+    <link href="../css/Main.css" rel="stylesheet">
     <link href="../css/ministries.css" rel="stylesheet">
    
-  <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
-  <script src="../js/animsition.js"></script>
-  <script src="../js/main.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <script src="../js/jquery.sticky.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
-  <script src="../js/my.js"></script>
-
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
+   
+    <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?callback=myMap"></script>
+    <script src="../js/app.js"></script>
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
@@ -50,9 +37,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <img src="../img/menu-icon.png"><i class="fa fa-bars"></i>
                 </button>
-                <!--<a class="navbar-brand page-scroll" href="#page-top">
-                    <i class="fa fa-play-circle"></i> <span class="light">Back To</span> Top
-                </a>-->
+              
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -79,9 +64,11 @@
                     <li>
                         <a class="page-scroll animsition-link" href="Sermons.php">Sermons</a>
                     </li>
+                    <!--
                     <li>
                         <a class="page-scroll animsition-link" href="MusicDept.php">Music Department</a>
                     </li>
+                -->
                     <li>
                         <a class="page-scroll animsition-link" href="https://www.facebook.com/pages/Trinity-Christian-Church/120808014643855">
                           <img src="../img/face-final.png">

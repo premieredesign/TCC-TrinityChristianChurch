@@ -150,7 +150,24 @@ $(document).ready(() => {
 
 	$('.frame').addClass('overlay');
 
+	$('iframe').click(function() {
+		$(this).hide();
+	});
 
+/*
+
+	$('.jumbo-youtube').hover(
+		function(){ $(this).css('z-index', '99')},
+		function(){ $(this).css('z-index', '-99')}
+	)
+*/
+
+	$('.jumbo-youtube').mouseenter(function() {
+		$('youtube-1').fadeOut('slow');
+	});
+	$(".jumbo-youtube").mouseleave(function(){
+       $('.youtube-1').fadeIn('slow');
+    });
 
 	//===========================================
 	//Events Page================================
@@ -160,6 +177,8 @@ $(document).ready(() => {
         interval: 3000
     });
     
+
+
 
 });
 
