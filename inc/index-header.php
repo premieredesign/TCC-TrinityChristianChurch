@@ -64,7 +64,7 @@
                         <a class="page-scroll animsition-link" href="pages/Events.php">Events</a>
                     </li>
                     <li>
-                        <a class="page-scroll animsition-link" href="pages/Sermons.php">Sermons</a>
+                        <a class="page-scroll animsition-link" href="pages/Sermons.php">Watch a Sermon</a>
                     </li>
                     <!--
                     <li>

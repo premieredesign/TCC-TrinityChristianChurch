@@ -19,7 +19,7 @@
 
     <!-- Theme CSS -->
     <link href="../css/Main.css" rel="stylesheet">
-    <link href="../css/music.css" rel="stylesheet">
+    <link href="../css/sermon.css" rel="stylesheet">
    
    
   

@@ -59,7 +59,7 @@
                         <a class="page-scroll animsition-link" href="Events.php">Events</a>
                     </li>
                     <li>
-                        <a class="page-scroll animsition-link" href="Sermons.php">Sermons</a>
+                        <a class="page-scroll animsition-link" href="Sermons.php">Watch a Sermon</a>
                     </li>
                     <li>
                         <a class="page-scroll animsition-link" href="MusicDept.php">Music Department</a>
