@@ -15,19 +15,19 @@
     
   <!-- Youtube Content
   ========================================================= -->
-  <!--
+  <div class="sermon-block"></div>
+  
   <div class="content-section-2"></div>
     <div class="frame">
       <div class="youtube-1">
-        
         <iframe id="tube-overlay" class="frame-youtube" src="https://www.youtube.com/embed/Dp4WC_YZAuw" frameborder="0" allowfullscreen></iframe>
-        <a class="btn btn-success" href="#" role="button">Pre Serivce Lyrics &raquo</a>
       </div>
+    
       <div class="youtube-2">
        
         <iframe class="frame-youtube" src="https://www.youtube.com/embed/wa78qxQCKgo" frameborder="0" allowfullscreen></iframe>
-        <a class="btn btn-primary" href="#" role="button">Main Serivce Lyrics &raquo</a>
       </div>
+      <!--
       <div class="youtube-3">
         
         <iframe class="frame-youtube" src="https://www.youtube.com/embed/b2kRwif6SbU" frameborder="0" allowfullscreen></iframe>
@@ -39,7 +39,7 @@
         <a class="btn btn-warning" href="#" role="button">Special Music Lyrics &raquo</a>
        
       </div>
-    </div>
+    </div> ->
     
     <!-- Footer
     ============================================== -->

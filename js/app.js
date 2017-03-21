@@ -513,27 +513,16 @@ $(document).ready(() => {
 	//Sermons Page=============================
 	//=========================================
 
-	$('.frame').addClass('overlay');
 
-	$('iframe').click(function() {
-		$(this).hide();
+
+	$('.youtube-1').hover(function() {
+		$('#tube-overlay').addClass('tubeMove')
+		$('#tube-overlay').css({
+			width: '450px',
+			height: '260px'
+		})
 	});
-
-/*
-
-	$('.jumbo-youtube').hover(
-		function(){ $(this).css('z-index', '99')},
-		function(){ $(this).css('z-index', '-99')}
-	)
-*/
-
-	$('.jumbo-youtube').mouseenter(function() {
-		$('youtube-1').fadeOut('slow');
-	});
-	$(".jumbo-youtube").mouseleave(function(){
-       $('.youtube-1').fadeIn('slow');
-    });
-
+	
 	//===========================================
 	//Events Page================================
 	//===========================================
