@@ -20,7 +20,7 @@
   <div class="content-section-2"></div>
     <div class="frame">
       <div class="youtube-1">
-        <iframe id="tube-overlay" class="frame-youtube" src="https://www.youtube.com/embed/Dp4WC_YZAuw" frameborder="0" allowfullscreen></iframe>
+        <iframe  class="frame-youtube other-words" src="https://www.youtube.com/embed/Dp4WC_YZAuw" frameborder="0" allowfullscreen></iframe>
       </div>
     
       <div class="youtube-2">

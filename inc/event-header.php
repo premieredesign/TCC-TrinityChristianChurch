@@ -71,9 +71,11 @@
                     <li>
                         <a class="page-scroll animsition-link" href="Sermons.php">Watch a Sermon</a>
                     </li>
+                    <!--
                     <li>
                         <a class="page-scroll animsition-link" href="MusicDept.php">Music Department</a>
                     </li>
+                -->
                     <li>
                         <a class="page-scroll animsition-link" href="https://www.facebook.com/pages/Trinity-Christian-Church/120808014643855">
                           <img src="../img/face-final.png">
