@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <title>Event</title>
     <link rel="shortcut icon" href="favicon.ico">
-    <!--<link rel="icon" href="favicon.ico" type="image/x-icon">-->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="icon" href="animated_favicon.gif" type="image/gif" >
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">

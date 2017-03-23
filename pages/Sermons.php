@@ -19,15 +19,18 @@
   
   <div class="content-section-2"></div>
     <div class="frame">
+      <div class="image-wrapper">
+        <p class="sermon-overlay"> Sermon series</p>
+  <img class="image" src="../img/blk-white-city.jpg">
+    </div>
+    <!--
       <div class="youtube-1">
-        <iframe  class="frame-youtube other-words" src="https://www.youtube.com/embed/Dp4WC_YZAuw" frameborder="0" allowfullscreen></iframe>
       </div>
-    
       <div class="youtube-2">
        
         <iframe class="frame-youtube" src="https://www.youtube.com/embed/wa78qxQCKgo" frameborder="0" allowfullscreen></iframe>
       </div>
-      <!--
+      
       <div class="youtube-3">
         
         <iframe class="frame-youtube" src="https://www.youtube.com/embed/b2kRwif6SbU" frameborder="0" allowfullscreen></iframe>
