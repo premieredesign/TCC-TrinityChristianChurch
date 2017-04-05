@@ -20,8 +20,7 @@
   <div class="content-section-2"></div>
     <div class="frame">
       <div class="image-wrapper">
-        <p class="sermon-overlay"> Sermon series</p>
-  <img class="image" src="../img/blk-white-city.jpg">
+  <!--<img class="image"  src="../img/blk-white-city.jpg"/>-->
     </div>
     <!--
       <div class="youtube-1">
